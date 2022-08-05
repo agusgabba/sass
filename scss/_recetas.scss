@@ -1,0 +1,22 @@
+.carousel {height: 40% !important;
+    width: 40% !important;}
+    .sushirol {background-image:linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0)), url(https://babycocina.com/wp-content/uploads/2020/09/sushi-casero.jpg);
+        background-position: center;
+        background-repeat: none;
+        background-size: cover;
+    display: flex;
+    justify-content: center;}
+    .main3 {height: 800px;
+        background-image:  url(https://babycocina.com/wp-content/uploads/2020/09/sushi-casero.jpg);
+        background-position: center;
+        background-repeat: none;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+    .container {border: solid gold;
+        background-color: rgba(0, 0, 0, 0.61);}
+    .letras4 {color: white;
+        font-family: verdana;
+        font-size: 15px;}

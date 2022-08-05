@@ -1,0 +1,12 @@
+.header {height: 70px; 
+    background-image: linear-gradient(to bottom,red,black);}
+.nav-link { color: white; 
+    font-size: 20px; 
+    font-family: verdana; 
+    font-weight: 400px;
+text-decoration: none;
+transition: 0.2s 0.5 ease;}
+.nav {display: flex;
+list-style-type: none;
+justify-content: space-around;
+align-items: center;}

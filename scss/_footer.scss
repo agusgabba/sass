@@ -1,0 +1,16 @@
+.footer {height: 70px; 
+    display: flex;
+    list-style-type: none;
+justify-content: space-around;
+align-items: center;
+    background-image: linear-gradient(to top,red,rgba(0, 0, 0, 0.89));}
+.derechos {color: white; 
+    font-size: 20px; 
+    font-family: verdana; 
+    font-weight: 400px;}
+.contacto {color: white; 
+    font-size: 20px; 
+    font-family: verdana; 
+    font-weight: 400px;
+text-decoration: none;
+&:hover {color: gold; text-decoration: underline;}}
